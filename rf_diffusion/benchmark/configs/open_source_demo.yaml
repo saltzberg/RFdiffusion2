@@ -11,7 +11,7 @@ sweep:
     inference.ckpt_path=REPO_ROOT/rf_diffusion/model_weights/RFD_173.pt
     inference.seed_offset=43
   
-  num_per_condition: 1
+  num_per_condition: 10
   num_per_job: 1
   benchmark_json: open_source_demo.json
 
